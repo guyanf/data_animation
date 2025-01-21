@@ -1,0 +1,250 @@
+iso2	iso3	cnname	enname	capital	area	population
+AF	AFG	 阿富汗	Afghanistan	喀布尔	647,500 km²	40,503,288
+AZ	AZE	 阿塞拜疆	Azerbaijan	巴库	86,600 km²	10,278,905
+BH	BHR	 巴林	Bahrain	麦纳麦	665 km²	1,773,183
+BD	BGD	 孟加拉国	Bangladesh	达卡	147,570 km²	167,455,589
+AM	ARM	 亚美尼亚	Armenia	埃里温	29,700 km²	2,970,966
+BT	BTN	 不丹	Bhutan	廷布	38,000 km²	785,741
+IO	IOT	 英属印度洋领地	British Indian Ocean Territory	迪戈加西亚岛	60 km²	4,000
+BN	BRN	 文莱	Brunei	斯里巴加湾	5,765 km²	444,331
+MM	MMR	 缅甸	Myanmar	内比都	678,500 km²	55,115,343
+KH	KHM	 柬埔寨	Cambodia	金边	181,040 km²	17,107,939
+LK	LKA	 斯里兰卡	Sri Lanka	科伦坡	65,610 km²	21,554,242
+CN	CHN	 中国	China	北京	9,596,960 km²	1,447,301,400
+TW	TWN	 台湾	Taiwan	台北	35,980 km²	22,894,384
+CC	CCK	 科科斯群岛	Cocos Islands	科科斯岛	14 km²	628
+GE	GEO	 格鲁吉亚	Georgia	第比利斯	69,700 km²	3,971,638
+PS	PSE	 巴勒斯坦	Palestine	耶路撒冷	6,220 km²	5,312,241
+HK	HKG	 香港	Hong Kong	香港	1,092 km²	6,898,686
+IN	IND	 印度	India	新德里	3,287,590 km²	1,403,018,576
+ID	IDN	 印度尼西亚	Indonesia	雅加达	1,913,579 km²	278,374,305
+IR	IRN	 伊朗	Iran	德黑兰	1,645,000 km²	85,753,137
+IQ	IRQ	 伊拉克	Iraq	巴格达	437,072 km²	41,896,565
+IL	ISR	 以色列	Israel	特拉维夫	25,000 km²	8,886,492
+JP	JPN	 日本	Japan	东京	377,835 km²	125,710,938
+KZ	KAZ	 哈萨克斯坦	Kazakhstan	努尔苏丹	2,724,900 km²	19,147,543
+JO	JOR	 约旦	Jordan	安曼	89,000 km²	10,284,669
+KP	PRK	 朝鲜	North Korea	平壤	123,000 km²	25,962,379
+KR	KOR	 韩国	South Korea	首尔	103,290 km²	51,321,899
+KW	KWT	 科威特	Kuwait	科威特	17,818 km²	4,364,726
+KG	KGZ	 吉尔吉斯斯坦	Kyrgyzstan	比什凯克	199,900 km²	6,700,871
+LA	LAO	 老挝	Laos	万象	236,800 km²	7,453,323
+LB	LBN	 黎巴嫩	Lebanon	贝鲁特	10,452 km²	6,700,349
+MO	MAC	 澳门	Macao	澳门	32.9 km²	449,198
+MY	MYS	 马来西亚	Malaysia	吉隆坡	329,750 km²	33,071,172
+MV	MDV	 马尔代夫	Maldives	马累	300 km²	540,885
+MN	MNG	 蒙古	Mongolia	乌兰巴托	1,565,000 km²	3,364,678
+OM	OMN	 阿曼	Oman	马斯喀特	212,460 km²	5,294,393
+NP	NPL	 尼泊尔	Nepal	加德满都	140,800 km²	30,087,482
+PK	PAK	 巴基斯坦	Pakistan	伊斯兰堡	796,095 km²	228,318,794
+PH	PHL	 菲律宾	Philippines	马尼拉	299,700 km²	112,109,494
+QA	QAT	 卡塔尔	Qatar	多哈	11,521 km²	2,965,915
+SA	SAU	 沙特阿拉伯	Saudi Arabia	利雅得	2,250,000 km²	35,704,209
+SG	SGP	 新加坡	Singapore	新加坡	728.6 km²	5,930,746
+VN	VNM	 越南	Vietnam	河内	329,556 km²	98,737,341
+SY	SYR	 叙利亚	Syria	大马士革	185,180 km²	19,126,509
+TJ	TJK	 塔吉克斯坦	Tajikistan	杜尚别	143,100 km²	9,900,664
+TH	THA	 泰国	Thailand	曼谷	513,000 km²	70,043,103
+AE	ARE	 阿联酋	United Arab Emirates	阿布扎比	83,600 km²	10,055,985
+TR	TUR	 土耳其	Turkey	安卡拉	783,600 km²	85,394,576
+TM	TKM	 土库曼斯坦	Turkmenistan	阿什哈巴德	491,200 km²	6,179,043
+UZ	UZB	 乌兹别克斯坦	Uzbekistan	塔什干	448,900 km²	34,260,084
+YE	YEM	 也门	Yemen	萨那	528,000 km²	30,973,267
+AL	ALB	 阿尔巴尼亚	Albania	地拉那	28,748 km²	2,868,174
+AD	AND	 安道尔	Andorra	安道尔	468 km²	77,463
+AT	AUT	 奥地利	Austria	维也纳	83,858 km²	9,058,910
+BE	BEL	 比利时	Belgium	布鲁塞尔	30,528 km²	11,657,578
+BA	BIH	 波黑	Bosnia and Herzegovina	萨拉热窝	51,200 km²	3,254,017
+BG	BGR	 保加利亚	Bulgaria	索非亚	110,910 km²	6,858,797
+BY	BLR	 白俄罗斯	Belarus	明斯克	207,595 km²	9,435,500
+HR	HRV	 克罗地亚	Croatia	萨格勒布	56,594 km²	4,065,586
+CY	CYP	 塞浦路斯	Cyprus	尼科西亚	9,251 km²	1,221,187
+CZ	CZE	 捷克	Czech Republic	布拉格	78,866 km²	10,476,000
+DK	DNK	 丹麦	Denmark	哥本哈根	43,096 km²	5,829,050
+EE	EST	 爱沙尼亚	Estonia	塔林	45,227 km²	1,322,610
+FO	FRO	 法罗群岛	Faroe Islands	托尔斯港	1,399 km²	48,228
+FI	FIN	 芬兰	Finland	赫尔辛基	338,424 km²	5,553,060
+AX	ALA	 奥兰群岛	Aland Islands	玛丽港	6,784 km²	26,711
+FR	FRA	 法国	France	巴黎	550,000 km²	65,541,518
+DE	DEU	 德国	Germany	柏林	357,582 km²	83,873,596
+GI	GIB	 直布罗陀	Gibraltar	直布罗陀	6.5 km²	27,884
+GR	GRC	 希腊	Greece	雅典	131,957 km²	10,331,037
+VA	VAT	 梵蒂冈	Vatican	梵蒂冈城	0.44 km²	799
+HU	HUN	 匈牙利	Hungary	布达佩斯	93,030 km²	9,614,059
+IS	ISL	 冰岛	Iceland	雷克雅未克	103,000 km²	344,793
+IE	IRL	 爱尔兰	Ireland	都柏林	70,273 km²	5,009,499
+IT	ITA	 意大利	Italy	罗马	301,333 km²	60,289,670
+LV	LVA	 拉脱维亚	Latvia	里加	64,589 km²	1,853,937
+LI	LIE	 列支敦士登	Liechtenstein	瓦杜兹	160 km²	38,387
+LT	LTU	 立陶宛	Lithuania	维尔纽斯	65,300 km²	2,669,808
+LU	LUX	 卢森堡	Luxembourg	卢森堡	2,586.3 km²	640,171
+MT	MLT	 马耳他	Malta	瓦莱塔	316 km²	443,733
+MC	MCO	 摩纳哥	Monaco	摩纳哥城	2.08 km²	39,783
+MD	MDA	 摩尔多瓦	Moldova	基希讷乌	33,846 km²	4,016,171
+ME	MNE	 黑山	Montenegro	波德戈里察	13,812 km²	627,950
+NL	NLD	 荷兰	Netherlands	阿姆斯特丹	41,526 km²	17,201,147
+NO	NOR	 挪威	Norway	奥斯陆	385,207 km²	5,498,870
+PL	POL	 波兰	Poland	华沙	312,696 km²	37,756,385
+PT	PRT	 葡萄牙	Portugal	里斯本	92,226 km²	10,148,470
+RO	ROU	 罗马尼亚	Romania	布加勒斯特	238,397 km²	19,059,135
+RU	RUS	 俄罗斯	Russia	莫斯科	17,124,442 km²	140,702,000
+SM	SMR	 圣马力诺	San Marino	圣马力诺市	61.2 km²	34,085
+RS	SRB	 塞尔维亚	Serbia	贝尔格莱德	88,400 km²	8,664,716
+SK	SVK	 斯洛伐克	Slovakia	布拉迪斯拉发	49,034 km²	5,460,293
+SI	SVN	 斯洛文尼亚	Slovenia	卢布尔雅那	20,273 km²	2,078,234
+ES	ESP	 西班牙	Spain		506,000 km²	46,726,042
+SJ	SJM	 斯瓦尔巴和扬马延	Svalbard and Jan Mayen		62,049 km²	2,550
+SE	SWE	 瑞典	Sweden	斯德哥尔摩	450,295 km²	10,202,771
+CH	CHE	 瑞士	Switzerland	伯尔尼	41,285 km²	8,757,337
+UA	UKR	 乌克兰	Ukraine	基辅	603,700 km²	43,266,222
+MK	MKD	 北马其顿	North Macedonia	斯科普里	25,713 km²	2,062,294
+GB	GBR	 英国	United Kingdom	伦敦	243,610 km²	68,415,007
+GG	GGY	 根西	Guernsey	圣彼得港	78 km²	65,228
+JE	JEY	 泽西	Jersey	圣赫利尔	118.2 km²	90,812
+IM	IMN	 马恩岛	Isle of Man	道格拉斯	572 km²	75,049
+AG	ATG	 安提瓜和巴布达	Antigua and Barbuda	圣约翰	442.6 km²	99,309
+BS	BHS	 巴哈马	Bahamas	拿骚	13,878 km²	399,516
+BB	BRB	 巴巴多斯	Barbados	布里奇顿	431 km²	287,923
+BM	BMU	 百慕大	Bermuda	哈密尔顿	71.7 km²	65,365
+BZ	BLZ	 伯利兹	Belize	贝尔莫潘	22,966 km²	410,190
+VG	VGB	 英属维尔京群岛	British Virgin Islands	罗德城	153 km²	21,730
+CA	CAN	 加拿大	Canada	渥太华	9,984,670 km²	38,300,219
+KY	CYM	 开曼群岛	Cayman Islands	乔治敦	264 km²	44,270
+CR	CRI	 哥斯达黎加	Costa Rica	圣何塞	51,100 km²	5,170,554
+CU	CUB	 古巴	Cuba	哈瓦那	110,861 km²	11,308,652
+DM	DMA	 多米尼克	Dominica	罗索	754 km²	72,344
+DO	DOM	 多米尼加	Dominican Republic	圣多明各	48,734 km²	9,823,821
+SV	SLV	 萨尔瓦多	El Salvador	圣萨尔瓦多	21,041 km²	6,541,789
+GL	GRL	 格陵兰	Greenland	努克	2,166,086 km²	56,375
+GD	GRD	 格林纳达	Grenada	圣乔治	344 km²	113,375
+GP	GLP	 瓜德罗普	Guadeloupe	巴斯特尔	1,702 km²	443,000
+GT	GTM	 危地马拉	Guatemala	危地马拉城	108,889 km²	18,492,839
+HT	HTI	 海地	Haiti	太子港	27,750 km²	11,642,483
+HN	HND	 洪都拉斯	Honduras	特古西加尔巴	112,090 km²	10,178,047
+JM	JAM	 牙买加	Jamaica	金斯敦	10,991 km²	2,981,894
+MQ	MTQ	 马提尼克	Martinique	法兰西堡	1,100 km²	374,287
+MX	MEX	 墨西哥	Mexico	墨西哥城	1,972,550 km²	131,206,972
+MS	MSR	 蒙特塞拉特	Montserrat	普利茅斯	102 km²	9,341
+AN	ANT	 荷属安的列斯	Netherlands Antilles	威廉斯塔德	960 km²	300,000
+CW	CUW	 库拉索	Curacao	威廉斯塔德	444 km²	141,766
+AW	ABW	 阿鲁巴	Aruba	奥拉涅斯塔德	193 km²	71,566
+SX	SXM	 荷属圣马丁	Sint Maarten	菲利普斯堡	34 km²	37,429
+BQ	BES	 荷兰加勒比区	Bonaire, Saint Eustatius and Saba		328 km²	25,019
+NI	NIC	 尼加拉瓜	Nicaragua	马那瓜（首都）	130,400 km²	6,758,000
+PA	PAN	 巴拿马	Panama	巴拿马城	78,200 km²	4,429,064
+PR	PRI	 波多黎各	Puerto Rico	圣胡安	9,104 km²	2,833,512
+BL	BLM	 圣巴泰勒米	Saint Barthelemy	居斯塔维亚	22.1 km²	8,450
+KN	KNA	 圣基茨和尼维斯	Saint Kitts and Nevis	巴斯特尔	261 km²	53,871
+AI	AIA	 安圭拉	Anguilla	瓦利	96 km²	13,254
+LC	LCA	 圣卢西亚	Saint Lucia	卡斯特里	616 km²	160,922
+MF	MAF	 法属圣马丁	Saint Martin	马里戈特	53.2 km²	35,925
+PM	SPM	 圣皮埃尔和密克隆	Saint Pierre and Miquelon	圣皮埃尔	242 km²	7,012
+VC	VCT	 圣文森特	Saint Vincent and the Grenadines	金斯敦	389 km²	111,551
+TT	TTO	 特立尼达和多巴哥	Trinidad and Tobago	西班牙港	5,128 km²	1,405,685
+TC	TCA	 特凯	Turks and Caicos Islands	科伯恩城	616.3 km²	20,556
+US	USA	 美国	United States		9,370,000 km²	334,282,669
+VI	VIR	 美属维尔京群岛	U.S. Virgin Islands	夏洛特阿马利亚	351 km²	108,708
+AR	ARG	 阿根廷	Argentina	布宜诺斯艾利斯	2,780,400 km²	45,899,534
+BO	BOL	 玻利维亚	Bolivia	拉巴斯	1,098,000 km²	11,949,056
+BR	BRA	 巴西	Brazil	巴西利亚	8,514,900 km²	214,981,893
+CL	CHL	 智利	Chile	圣地亚哥	756,715 km²	19,232,195
+CO	COL	 哥伦比亚	Colombia	波哥大	1,141,748 km²	51,426,662
+EC	ECU	 厄瓜多尔	Ecuador	基多	256,370 km²	18,049,661
+FK	FLK	 马尔维纳斯群岛	Falkland Islands	斯坦利	12,200 km²	2,638
+GF	GUF	 法属圭亚那	French Guiana	卡宴	83,534 km²	312,169
+GY	GUY	 圭亚那	Guyana	乔治敦	215,000 km²	793,045
+PY	PRY	 巴拉圭	Paraguay	亚松森	406,800 km²	7,282,343
+PE	PER	 秘鲁	Peru	利马	1,285,216 km²	33,589,108
+SR	SUR	 苏里南	Suriname	帕拉马里博	164,000 km²	595,431
+UY	URY	 乌拉圭	Uruguay	蒙得维的亚	176,200 km²	3,493,116
+VE	VEN	 委内瑞拉	Venezuela	加拉加斯	916,445 km²	29,151,691
+DZ	DZA	 阿尔及利亚	Algeria	阿尔及尔	2,381,741 km²	45,149,948
+AO	AGO	 安哥拉	Angola	罗安达	1,246,700 km²	34,726,943
+BW	BWA	 博茨瓦纳	Botswana	哈博罗内	581,730 km²	2,429,162
+BI	BDI	 布隆迪	Burundi	基特加	27,830 km²	12,523,840
+CM	CMR	 喀麦隆	Cameroon	雅温得	475,442 km²	27,723,248
+CV	CPV	 佛得角	Cape Verde	普拉亚	4,033 km²	566,078
+CF	CAF	 中非	Central African Republic	班吉	622,984 km²	4,844,927
+TD	TCD	 乍得	Chad	恩贾梅纳	1,284,000 km²	17,277,180
+KM	COM	 科摩罗	Comoros	莫罗尼	2,236 km²	902,119
+YT	MYT	 马约特	Mayotte	马穆楚	374 km²	159,042
+CG	COG	 刚果（布）	Republic of the Congo	布拉柴维尔	342,000 km²	3,039,126
+CD	COD	 刚果（金）	Democratic Republic of the Congo	金沙萨	2,345,409 km²	70,916,439
+BJ	BEN	 贝宁	Benin	科托努	112,622 km²	12,693,326
+GQ	GNQ	 赤道几内亚	Equatorial Guinea	马拉博	28,051 km²	1,483,862
+ET	ETH	 埃塞俄比亚	Ethiopia	亚的斯亚贝巴	1,103,600 km²	120,010,098
+ER	ERI	 厄立特里亚	Eritrea	阿斯马拉	121,320 km²	3,646,044
+DJ	DJI	 吉布提	Djibouti	吉布提市	23,200 km²	1,012,297
+GA	GAB	 加蓬	Gabon	利伯维尔	268,000 km²	2,316,933
+GM	GMB	 冈比亚	Gambia	班珠尔	11,300 km²	2,538,882
+GH	GHA	 加纳	Ghana	阿克拉	238,537 km²	32,213,950
+GN	GIN	 几内亚	Guinea	科纳克里	245,857 km²	13,765,091
+CI	CIV	 科特迪瓦	Ivory Coast	亚穆苏克罗	322,460 km²	27,553,998
+KE	KEN	 肯尼亚	Kenya	内罗毕	582,646 km²	55,878,521
+LS	LSO	 莱索托	Lesotho	马塞卢	30,355 km²	2,171,099
+LR	LBR	 利比里亚	Liberia	蒙罗维亚	111,370 km²	5,270,917
+LY	LBY	 利比亚	Libya	的黎波里	1,760,000 km²	7,018,345
+MG	MDG	 马达加斯加	Madagascar	塔拿那利佛	590,750 km²	28,972,877
+MW	MWI	 马拉维	Malawi	利隆圭	118,484 km²	20,035,139
+ML	MLI	 马里	Mali	巴马科	1,240,000 km²	21,304,364
+MR	MRT	 毛里塔尼亚	Mauritania	努瓦克肖特	1,030,700 km²	3,205,060
+MU	MUS	 毛里求斯	Mauritius	路易港	2,040 km²	1,274,327
+MA	MAR	 摩洛哥	Morocco	拉巴特	459,000 km²	37,656,156
+MZ	MOZ	 莫桑比克	Mozambique	马普托	801,590 km²	32,836,161
+NA	NAM	 纳米比亚	Namibia	温德和克	825,615 km²	2,621,174
+NE	NER	 尼日尔	Niger	尼亚美	1,267,000 km²	25,822,160
+NG	NGA	 尼日利亚	Nigeria	阿布贾	923,768 km²	215,281,234
+GW	GNB	 几内亚比绍	Guinea-Bissau	比绍	36,120 km²	1,565,126
+RE	REU	 留尼汪	Reunion	圣但尼	2,512 km²	776,948
+RW	RWA	 卢旺达	Rwanda	基加利	26,338 km²	13,511,964
+SH	SHN	 圣赫勒拿	Saint Helena	詹姆斯敦	121 km²	7,460
+ST	STP	 圣多美和普林西比	Sao Tome and Principe	圣多美	1,001 km²	226,479
+SN	SEN	 塞内加尔	Senegal	达喀尔	196,722 km²	17,528,371
+SC	SYC	 塞舌尔	Seychelles	维多利亚	455 km²	99,326
+SL	SLE	 塞拉利昂	Sierra Leone	弗里敦	71,740 km²	8,261,336
+SO	SOM	 索马里	Somalia	摩加迪沙	637,657 km²	16,710,095
+ZA	ZAF	 南非	South Africa	开普敦	1,219,090 km²	60,560,135
+ZW	ZWE	 津巴布韦	Zimbabwe	哈拉雷	390,000 km²	15,265,228
+SS	SSD	 南苏丹	South Sudan	朱巴	620,000 km²	8,260,490
+SD	SDN	 苏丹	Sudan	喀土穆	1,886,068 km²	35,000,000
+EH	ESH	 西撒哈拉	Western Sahara	阿尤恩	266,000 km²	622,261
+SZ	SWZ	 斯威士兰	Swaziland	姆巴巴内	17,363 km²	1,354,051
+TG	TGO	 多哥	Togo	洛美	56,785 km²	8,625,237
+TN	TUN	 突尼斯	Tunisia	突尼斯	163,610 km²	12,016,456
+UG	UGA	 乌干达	Uganda	坎帕拉	241,550 km²	48,063,463
+EG	EGY	 埃及	Egypt	开罗	1,001,449 km²	105,636,792
+TZ	TZA	 坦桑尼亚	Tanzania	多多马	945,087 km²	62,805,150
+BF	BFA	 布基纳法索	Burkina Faso	瓦加杜古	274,122 km²	21,936,738
+ZM	ZMB	 赞比亚	Zambia	卢萨卡	752,614 km²	19,319,534
+AS	ASM	 东萨摩亚	American Samoa	帕果帕果	199 km²	57,881
+AU	AUS	 澳大利亚	Australia	堪培拉	7,692,000 km²	25,991,192
+SB	SLB	 所罗门群岛	Solomon Islands	霍尼亚拉	28,400 km²	716,359
+CX	CXR	 圣诞岛	Christmas Island	圣诞岛	135 km²	1,500
+CK	COK	 库克群岛	Cook Islands	阿瓦鲁阿	240 km²	21,388
+FJ	FJI	 斐济	Fiji	苏瓦	18,333 km²	907,666
+PF	PYF	 法属波利尼西亚	French Polynesia	帕皮提	4,167 km²	270,485
+KI	KIR	 基里巴斯	Kiribati	阿拉努卡	811 km²	122,819
+GU	GUM	 关岛	Guam	阿加尼亚	549 km²	159,358
+NR	NRU	 瑙鲁	Nauru	亚伦	21 km²	10,903
+NC	NCL	 新喀里多尼亚	New Caledonia	努美阿	18,575 km²	216,494
+VU	VUT	 瓦努阿图	Vanuatu	维拉港	12,200 km²	319,732
+NZ	NZL	 新西兰	New Zealand	惠灵顿	270,000 km²	4,887,903
+NU	NIU	 纽埃	Niue	阿洛菲	260 km²	2,166
+NF	NFK	 诺福克岛	Norfolk Island	金斯敦	34.6 km²	1,828
+MP	MNP	 北马里亚那群岛	Northern Mariana Islands	塞班岛	463.63 km²	53,883
+UM	UMI	 美国本土外小岛屿	United States Minor Outlying Islands
+FM	FSM	 密克罗尼西亚	Micronesia	帕利基尔	702 km²	107,708
+MH	MHL	 马绍尔群岛	Marshall Islands	马朱罗	181.3 km²	60,057
+PW	PLW	 帕劳	Palau	科罗尔	459 km²	18,233
+PG	PNG	 巴布亚新几内亚	Papua New Guinea	莫尔斯比港	462,840 km²	9,244,769
+PN	PCN	 皮特凯恩群岛	Pitcairn	亚当斯敦	47 km²	46
+TL	TLS	 东帝汶	East Timor	帝力	15,007 km²	1,154,625
+TK	TKL	 托克劳	Tokelau	法考福	12.2 km²
+TO	TON	 汤加	Tonga	努库阿洛法	748 km²	107,449
+TV	TUV	 图瓦卢	Tuvalu	富纳富提	26 km²	12,066
+WF	WLF	 瓦利斯和富图纳群岛	Wallis and Futuna	富图纳	142.42 km²	16,025
+WS	WSM	 萨摩亚	Samoa	阿皮亚	2,934 km²	201,739
+BV	BVT	 布韦岛	Bouvet Island		58.5 km²
+GS	SGS	 南桑威奇群岛	South Georgia and the South Sandwich Islands	古利德维肯	310 km²	30
+TF	ATF	 法属南部领地	French Southern Territories	巴黎	7,829 km²	145
+HM	HMD	 赫德岛和麦克唐纳群岛	Heard Island and McDonald Islands		368 km²

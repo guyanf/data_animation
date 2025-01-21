@@ -1,0 +1,45 @@
+{
+  "file_path": {
+    "country_code": "./utils/cn_name.txt",
+    "csv_path": "./data/gdp.csv",
+    "flag_path": "./flags",
+    "out_ani_path": "./static/videos/gdp.mp4",
+    "out_gif_path": "./static/images/gdp.gif"
+  },
+  "basemap": {
+    "figsize": [6, 6],
+    "background": "./data/basemap.jpeg",
+    "backgroundalpha": 0.7,
+    "titleimage": "./data/title111.jpeg",
+    "titlecoord": [90, 530],
+    "titlesize": [400, 60],
+    "titlealpha": 1,
+    "axiscolor": "gray",
+    "xaxislabel": "GDP:(billion)",
+    "datasource": "Source:Wiki By:Thomas",
+    "datasourcecolor": "gray",
+    "datasourcesize": 10
+  },
+  "yearinfo": {
+    "location": [0.8, 0.4],
+    "fontcolor": "black",
+    "circlecolor": "dimgray"
+  },
+  "bar": {
+    "cmap": "dark24",
+    "tops_bar": 12,
+    "height": 0.8,
+    "alpha": 0.9,
+    "flagsize": [50, 25]
+  },
+  "video":
+  {
+    "fps": 12,
+    "period": 24,
+    "mindate": "1950-1-1",
+    "maxdate": "2025-1-1",
+    "out_video": true,
+    "out_gif": true
+  },
+  "language": "en"
+}
